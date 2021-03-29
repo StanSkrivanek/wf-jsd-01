@@ -2,7 +2,7 @@ function myMultiply(a, b) {
   console.log(a * b);
 }
 
-function connected() {
+function isConnected() {
   console.log("IT WORKS");
 }
 
