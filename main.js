@@ -3,7 +3,7 @@ function myMultiply(a, b) {
 }
 
 function connected() {
-  return console.log("IT WORKS");
+  console.log("IT WORKS");
 }
 
 myMultiply(10,15);
